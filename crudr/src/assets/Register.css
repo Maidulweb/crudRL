@@ -1,0 +1,10 @@
+.main-hr {
+    opacity: .7;
+    height: 10px;
+    background: gray;
+    border: 1px solid gray;
+    border-radius: 0px 0px 50px 50px;
+}
+.color-red {
+    color: red;
+}
